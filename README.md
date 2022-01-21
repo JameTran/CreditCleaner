@@ -1,4 +1,7 @@
 # CreditCleaner
+Final Project for SFWR 2XB3
+
+
 The objective of this project is to clean up and better format credit card 
 transaction information in order to assist credit card fraud detection algorithms 
-in fulfilling their purpose. Written in Java
+in fulfilling their purpose. Written in Java.
